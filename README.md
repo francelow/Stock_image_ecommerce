@@ -45,8 +45,9 @@ This section should list any major frameworks that you built your project using.
 ### Prerequisites
 
 You would need to install XAMPP software in order to set up a web server.  .
-* npm
-  ``` https://www.apachefriends.org/index.html
+* XAMPP homepage
+  ```sh 
+  https://www.apachefriends.org/index.html
   ```
 ### Installation
 

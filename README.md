@@ -8,7 +8,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#Payment Processing Demo Screenshots">Payment Processing Demo Screenshots</a></li>
+        <li><a href="#payment-processing-demo-screenshots">Payment Processing Demo Screenshots</a></li>
       </ul>
     </li>
     <li>
@@ -53,6 +53,7 @@
  
 
 ## Getting Started
+
 ### Prerequisites
 
 You would need to install XAMPP software in order to set up a web server.  .

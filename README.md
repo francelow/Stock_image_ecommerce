@@ -49,9 +49,9 @@
   <li><img src="screenshots/payment_success.png" width="700" height="500"></li>
 </ul>
 
-<!-- GETTING STARTED -->
-## Getting Started
+ 
 
+## Getting Started
 ### Prerequisites
 
 You would need to install XAMPP software in order to set up a web server.  .

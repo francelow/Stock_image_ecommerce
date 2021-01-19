@@ -33,21 +33,20 @@
 * Javascript
 
 ### Payment Processing Demo Screenshots
-<ul>
-  This is the landing page.
-  <li><img src="screenshots/homepage.png" width="700" height="500"></li>
-  Select any products to add in the cart.
-  <li><img src="screenshots/addtocart.png" width="700" height="500"></li>
-  You can increment/decrement/delete any product. The total price will be reflected accordingly.
-  When you are ready to submit your purchases, click "Buy Now".
-  <li><img src="screenshots/checkout.png" width="700" height="500"></li>
-  Next, to complete the purchases, you can enter the following credentials provided.
-  <li><img src="screenshots/login_password.png" width="700" height="500"></li>
-  You will be brought to the payment options page to enter your mode of payment
-  <li><img src="screenshots/payment.png" width="700" height="500"></li>
-  After confirming your payment, you will be shown this page for 5 seconds before redirecting you back to the homepage of the ecommerce website.
-  <li><img src="screenshots/payment_success.png" width="700" height="500"></li>
-</ul>
+ * This is the landing page.
+  <img src="screenshots/homepage.png" width="700" height="500">
+ * Select any products to add in the cart.
+  img src="screenshots/addtocart.png" width="700" height="500">
+ * You can increment/decrement/delete any product. The total price will be reflected accordingly.
+ * When you are ready to submit your purchases, click "Buy Now".
+  <img src="screenshots/checkout.png" width="700" height="500">
+ * Next, to complete the purchases, you can enter the following credentials provided.
+  <img src="screenshots/login_password.png" width="700" height="500">
+ * You will be brought to the payment options page to enter your mode of payment
+  <img src="screenshots/payment.png" width="700" height="500">
+ * After confirming your payment, you will be shown this page for 5 seconds before redirecting you back to the homepage of the ecommerce website.
+  <img src="screenshots/payment_success.png" width="700" height="500">
+
 
  
 

@@ -72,7 +72,7 @@ You would need to install XAMPP software in order to set up a web server.  .
    ```sh
    git clone https://github.com/francelow/Stock_image_ecommerce.git
    ```
-2. Once you have finished cloning the repo, go inside the Stock_image_ecommerce folder and cut the ecom_db folder and move it into the mysql/data folder.
+2. Once you have finished cloning the repo, go inside the Stock_image_ecommerce folder and cut the ecom_db folder and move it into the xampp\mysql\data folder.
 
 3. Once ecom_db has been moved, move the Stock_image_ecommerce folder into the htdocs folder inside your xampp folder. 
    

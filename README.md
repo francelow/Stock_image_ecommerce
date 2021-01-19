@@ -40,9 +40,10 @@ This section should list any major frameworks that you built your project using.
 
 ### Payment Processing Demo Screenshots
 <ol>
-  <li><img src="screenshots/homepage.png" width="200" height="200"></li>
-  <li><img src="screenshots/addtocart.png" width="200" height="200"></li>
-  <li><img src="screenshots/checkout.png" width="200" height="200"></li>
+  <li><img src="screenshots/homepage.jpg" width="600" height="600"></li>
+  <li><img src="screenshots/addtocart.png" width="600" height="600"></li>
+  <li><img src="screenshots/checkout.png" width="600" height="600"></li>
+  <li><img src="screenshots/checkout.png" width="600" height="600"></li>
 </ol>
 <!-- GETTING STARTED -->
 ## Getting Started

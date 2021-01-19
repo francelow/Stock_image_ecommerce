@@ -8,6 +8,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -37,8 +38,11 @@ This section should list any major frameworks that you built your project using.
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
 
-
-
+### Payment Processing Demo Screenshots
+<ol>
+  <li><img src="screenshots/homepage.png" alt="Logo" width="200" height="200"></li>
+  <li><img src="screenshots/addtocart.png" alt="Logo" width="200" height="200"></li>
+</ol>
 <!-- GETTING STARTED -->
 ## Getting Started
 

@@ -34,7 +34,10 @@
 
 ### Payment Processing Demo Screenshots
 
+
 <ul>
+  
+  
   <li>This is the landing page.  
   <img src="screenshots/homepage.png" width="700" height="500"></li>
   <li>Select any products to add in the cart.  
@@ -48,6 +51,8 @@
   <img src="screenshots/payment.png" width="700" height="500"></li>
   <li>After confirming your payment, you will be shown this page for 5 seconds before redirecting you back to the homepage of the ecommerce website.  
   <img src="screenshots/payment_success.png" width="700" height="500"></li>
+  
+  
 </ul>
 
  

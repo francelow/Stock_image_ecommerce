@@ -32,10 +32,10 @@
 * MySQL
 * Javascript
 
-### Payment Processing Demo Screenshots
+### Payment Processing Demo Screenshots  
 
 
-<ul>
+<ul>  
   
   
   <li>This is the landing page.  

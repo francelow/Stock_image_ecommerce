@@ -39,7 +39,7 @@ This section should list any major frameworks that you built your project using.
 * [Laravel](https://laravel.com)
 
 ### Payment Processing Demo Screenshots
-<ol>
+<ul>
   This is the landing page.
   <li><img src="screenshots/homepage.png" width="600" height="500"></li>
   Select any products to add in the cart.
@@ -47,7 +47,8 @@ This section should list any major frameworks that you built your project using.
   You can increment/decrement/delete any product. The total price will be reflected accordingly.
   When you are ready to submit your purchases, click "Buy Now".
   <li><img src="screenshots/checkout.png" width="600" height="500"></li>
-  <li><img src="screenshots/checkout.png" width="600" height="500"></li>
+  Next, to complete the purchases, you can enter the following credentials provided.
+  <li><img src="screenshots/login_password.png" width="600" height="500"></li>
 </ol>
 <!-- GETTING STARTED -->
 ## Getting Started

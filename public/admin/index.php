@@ -11,7 +11,7 @@
   <div class="container-fluid">
     <!-- /.row -->
     <?php
-      if ($_SERVER['REQUEST_URI'] == "/ecom/public/admin/" || $_SERVER['REQUEST_URI'] == "/ecom/public/admin/index.php"){
+      if ($_SERVER['REQUEST_URI'] == "/Stock_image_ecommerce/public/admin/" || $_SERVER['REQUEST_URI'] == "/Stock_image_ecommerce/public/admin/index.php"){
         include(TEMPLATE_BACK . "/admin_content.php");
       }
       if (isset($_GET['orders'])){

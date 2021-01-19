@@ -50,7 +50,7 @@ This section should list any major frameworks that you built your project using.
   Next, to complete the purchases, you can enter the following credentials provided.
   <li><img src="screenshots/login_password.png" width="700" height="600"></li>
   You will be brought to the payment options page to enter your mode of payment
-  <li><img src="screenshots/payment.png" width="700" height="600"></li>
+  <li><img src="screenshots/homepage.png" width="700" height="600"></li>
   After confirming your payment, you will be shown this page for 5 seconds before redirecting you back to the homepage of the ecommerce website.
   <li><img src="screenshots/payment_success.png" width="700" height="600"></li>
 </ul>
